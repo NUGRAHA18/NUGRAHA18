@@ -19,7 +19,4 @@ Here are some of the technologies I'm proficient in and frequently use in my pro
 
 ---
 
-### 📈 GitHub Stats
 
-[![NUGRAHA18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NUGRAHA18&show_icons=true&theme=dark&hide_rank=true)](https://github.com/NUGRAHA18)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NUGRAHA18&layout=compact&theme=dark)](
