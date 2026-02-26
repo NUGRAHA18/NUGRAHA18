@@ -5,7 +5,6 @@ A passionate **Full-stack Developer** focused on building efficient and interact
 
 ---
 
-
 ### 🚀 My Tech Stack
 
 Here are some of the technologies I'm proficient in and frequently use in my projects.
