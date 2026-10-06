@@ -19,6 +19,8 @@ Here are some of the technologies I'm proficient in and frequently use in my pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 ---
+
 
 
