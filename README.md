@@ -1,7 +1,4 @@
 
-
-
-
 # Hello, I'm Agung
 
 
