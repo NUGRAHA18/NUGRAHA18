@@ -10,6 +10,7 @@ I enjoy learning new technologies and contributing to challenging projects.
 
 ---
 
+
 ### My Tech Stack
 
 Here are some of the technologies I'm proficient in and frequently use in my projects.
